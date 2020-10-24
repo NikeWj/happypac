@@ -17,6 +17,10 @@ AttackAgent vs DefenceAgent (For training)
 python3 capture.py -r attackAgent.py -b DefenceAgent.py -l RANDOM
 ```
 
+```
+Final Version is myTeam
+```
+
 
 <!-- ---------------------------------------------------------- -->
 
